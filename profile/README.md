@@ -1,3 +1,5 @@
+The latest mobilityDCAT-AP specification is available at: https://w3id.org/mobilitydcat-ap
+
 The main repositories managed by this organisation are:
 
 **mobilityDCAT-AP repository** https://github.com/mobilityDCAT-AP/mobilityDCAT-AP 
