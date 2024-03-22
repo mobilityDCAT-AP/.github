@@ -2,8 +2,8 @@ The main repositories managed by this organisation are:
 
 **mobilityDCAT-AP repository** https://github.com/mobilityDCAT-AP/mobilityDCAT-AP 
   - Hosting of versioned drafts and releases of the mobilityDCAT-AP specification (ReSpec) and publication via GitHub Pages
-  - Maintenance of mobilityDCAT-AP specification through Issues
-  - Wiki for mobilityDCAT-AP
+  - Maintenance of mobilityDCAT-AP specification through [Issues](https://github.com/mobilityDCAT-AP/mobilityDCAT-AP/issues)
+  - [Wiki](https://github.com/mobilityDCAT-AP/mobilityDCAT-AP/wiki) for mobilityDCAT-AP
 
 **Controlled Vocabularies repository** https://github.com/mobilityDCAT-AP/controlled-vocabularies 
 - Base Excel files and scripts for the generation/update of vocabularies
