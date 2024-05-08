@@ -10,7 +10,7 @@ The main repositories managed by this organisation are:
 📑**Controlled Vocabularies** repository: https://github.com/mobilityDCAT-AP/controlled-vocabularies 
 - Base Excel files and scripts for the generation/update of vocabularies
 - Hosting of versioned controlled vocabularies and publication via GitHub Pages
-- Maintenance of the controlled vocabularies through Issues
+- Maintenance of the controlled vocabularies through [Issues](https://github.com/mobilityDCAT-AP/controlled-vocabularies/issues)
 
 👥 **Adopters** repository: https://github.com/mobilityDCAT-AP/adopters
 - List of adopters of mobilityDCAT-AP  
