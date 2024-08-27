@@ -13,5 +13,9 @@ The main repositories managed by this organisation are:
 - Maintenance of the controlled vocabularies through [Issues](https://github.com/mobilityDCAT-AP/controlled-vocabularies/issues)
 
 👥 **Adopters** repository: https://github.com/mobilityDCAT-AP/adopters
-- List of adopters of mobilityDCAT-AP  
+- List of adopters of mobilityDCAT-AP
+
+▶️ **mobilityDCAT-AP UI** repository: https://github.com/mobilityDCAT-AP/mobilitydcatap-ui
+- Simple interface to play with the RDF representation of metadata according to the mobilityDCAT-AP specification
+- Accessible at https://mobilitydcat-ap.github.io/mobilitydcatap-ui/
 
