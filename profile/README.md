@@ -15,7 +15,7 @@ The main repositories managed by this organisation are:
 👥 **Adopters** repository: https://github.com/mobilityDCAT-AP/adopters
 - List of adopters of mobilityDCAT-AP
 
-▶️ **mobilityDCAT-AP UI** repository: https://github.com/mobilityDCAT-AP/mobilitydcatap-ui
-- Simple interface to play with the RDF representation of metadata according to the mobilityDCAT-AP specification
+▶️ **mobilityDCAT-AP Generator Tool** repository: https://github.com/mobilityDCAT-AP/mobilitydcatap-ui
+- Simple interface to generate an RDF representation of metadata according to the mobilityDCAT-AP specification
 - Accessible at https://mobilitydcat-ap.github.io/mobilitydcatap-ui/
 
